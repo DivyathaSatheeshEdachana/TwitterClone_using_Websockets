@@ -18,6 +18,10 @@ Once the client process is started, the user will be asked to give an Input Comm
 From the list, user can pick any functionality as per the format.
 Eg : Register|1|abc
 where username is 1 and password is abc
+Note : Please give integer values for username
+
+## Youtube link for the demo :
+
 
 ## Working Part :
 
@@ -32,8 +36,5 @@ where username is 1 and password is abc
 
 <ul>
 <li>We have used Suave which is a F# web development library for creating and using Websockets.</li>
-<li></li>
-<li></li>  
-<li></li>
-<li></li>
+<li>We have used JSON based APIs using simple REST principles to communicate between client and server</li>
 </ul>
