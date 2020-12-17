@@ -14,14 +14,14 @@ First run the server process using :  <br />
 dotnet fsi AppServer.fsx  <br />
 After server has started running, run the client processes in different terminals (based on number of users to be simulated) :  <br />
 dotnet fsi AppClient.fsx <br />
-Once the client process is started, the user will be asked to give an Input Command. Press any key and it will list all the functionalities avaiable in the system.
+Once the client process is started, the user will be asked to give an Input Command. Press any key and it will list all the functionalities available in the system.
 From the list, user can pick any functionality as per the format.
 Eg : Register|1|abc
 where username is 1 and password is abc
 Note : Please give integer values for username.
 
 ## Youtube link for the demo :
-
+https://youtu.be/wdJqihGnuE8
 
 ## Working Part :
 
